@@ -1,0 +1,4 @@
+book2=Primary Key - id,
+book3=Primary Key - id,Foreign Key - courseId reference book2(id),
+book4=Primary Key - id,Foreign Key - courseId reference book2(id),Foreign Key - bookId reference book3(id)
+book6=Primary Key - id,Foreign Key - courseId references book2(id),

@@ -1,0 +1,4 @@
+book2=id int|title text
+book3=id int|title text|courseId int
+book3=id int|title text|courseId int|bookId int
+book6=id int|title text|courseId int
