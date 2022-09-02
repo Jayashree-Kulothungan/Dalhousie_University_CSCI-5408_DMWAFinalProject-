@@ -37,11 +37,11 @@ The final project of CSCI 5408 - Data Management, Warehousing and Analytics of M
     - Event Logs : changes in database, concurrent transactions, crash reports, etc.
     - Query Logs : capture user queries and timestamp of query submission
   - Data Modelling - Reverse Engineering
-  - Exportinf structure and values
+  - Exporting structure and values
   - Analytics
     - Valid and invalid queries
-    - upfate operations successfully executed by Tables
+    - update operations successfully executed by tables
   - User Interface and Login Security
     - user registration and login using userID, password and security answers
     - hashed passwords
-  - Maintainence of meta data for each local DBMS
+  - Maintainence of metadata for each local DBMS
